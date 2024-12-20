@@ -12,5 +12,5 @@ export class AppComponent {
   // 1. movies list
   // 2. gallery
   // 3. articles
-  // 4. feedback
+  // 4. feedback 
 }
