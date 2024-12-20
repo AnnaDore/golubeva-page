@@ -8,4 +8,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'katerina-golubeva-page';
+  // TODO: 
+  // 1. movies list
+  // 2. gallery
+  // 3. articles
+  // 4. feedback
 }
